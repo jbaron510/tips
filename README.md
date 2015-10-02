@@ -13,6 +13,8 @@ What does the app can do?
 
 Required: The user can calculate the tip, using diferent percentages, and click to close the keyboard.
 
+![Video Walkthrough](iOS-TipCalc.gif)
+
 What did I miss?
 
 The GIF was created with LiceCap.
